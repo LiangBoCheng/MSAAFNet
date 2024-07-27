@@ -5,7 +5,7 @@ python 3.7 + pytorch 1.9.0
 We provide [saliency maps](https://pan.baidu.com/s/1eUWvdXUZpbBFkbDJDa-Utw?pwd=lbc0) (code:lbc0) of our MSAAFNet on ORSSD, EORSSD and ORSI-4199 datasets.  
 We also provide [saliency maps](https://pan.baidu.com/s/1krIXhl7KF8_fqjIF7P6yyQ?pwd=lbc0) (code:lbc0) of our MSAAFNet on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.
 # Training
-Run train_MSAAFNet.py.
+Run train_MSAAFNet.py. We use the Canny.py to generate the edge label for training.
 # Pre-trained model and testing
 Download the following pre-trained model and put them in ./models/MSAAFNet/, then run test_MSAAFNet.py.  
 [MSAAFNet_EORSSD](https://pan.baidu.com/s/1dJDRkUC5Hc6Q28XucuISUw?pwd=lbc0) (code:lbc0)  
