@@ -3,7 +3,7 @@
 python 3.7 + pytorch 1.9.0
 # Saliency maps
 We provide [saliency maps](https://pan.baidu.com/s/1eUWvdXUZpbBFkbDJDa-Utw?pwd=lbc0) (code:lbc0) of our MSAAFNet on ORSSD, EORSSD and ORSI-4199 datasets.  
-We also provide [saliency maps](https://pan.baidu.com/s/1krIXhl7KF8_fqjIF7P6yyQ?pwd=lbc0) (code:lbc0) of our MSAAFNet on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCALS datasets.
+We also provide [saliency maps](https://pan.baidu.com/s/1krIXhl7KF8_fqjIF7P6yyQ?pwd=lbc0) (code:lbc0) of our MSAAFNet on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.
 # Training
 Run train_MSAAFNet.py.
 # Pre-trained model and testing
