@@ -2,10 +2,10 @@
 # Requirements
 python 3.7 + pytorch 1.9.0 + imageio 2.22.2
 # Saliency maps
-We provide [saliency maps](https://pan.baidu.com/s/1eUWvdXUZpbBFkbDJDa-Utw?pwd=lbc0) (code:lbc0) of MSAAFNet_V2 on ORSSD, EORSSD and ORSI-4199 datasets.  
-We also provide [saliency maps](https://pan.baidu.com/s/1krIXhl7KF8_fqjIF7P6yyQ?pwd=lbc0) (code:lbc0) of MSAAFNet_V2 on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.  
-We provide [saliency maps](https://pan.baidu.com/s/1Ey04P98O2pOC9O3OXaq4RA) (code:lbc0) of our MSAAFNet_V3 on ORSSD, EORSSD and ORSI-4199 datasets.  
-We also provide [saliency maps](https://pan.baidu.com/s/1stY_QeeDg2XQgy0pCyZHiw) (code:lbc0) of MSAAFNet_V3 on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.
+[saliency maps](https://pan.baidu.com/s/1eUWvdXUZpbBFkbDJDa-Utw?pwd=lbc0) (code:lbc0) of MSAAFNet_V2 on ORSSD, EORSSD and ORSI-4199 datasets.  
+[saliency maps](https://pan.baidu.com/s/1krIXhl7KF8_fqjIF7P6yyQ?pwd=lbc0) (code:lbc0) of MSAAFNet_V2 on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.  
+[saliency maps](https://pan.baidu.com/s/1Ey04P98O2pOC9O3OXaq4RA) (code:lbc0) of our MSAAFNet_V3 on ORSSD, EORSSD and ORSI-4199 datasets.  
+[saliency maps](https://pan.baidu.com/s/1stY_QeeDg2XQgy0pCyZHiw) (code:lbc0) of MSAAFNet_V3 on DUT-O, DUTS-TE, HKU-IS, ECSSD and PASCAL-S datasets.
 # Training
 Run train_MSAAFNet.py. We use the Canny.py to generate the edge label for training.  
 For MSAAFNet_V3, please modify paths of [MobileNetV3_backbone](https://pan.baidu.com/s/1uI3p9pCVANoBNgAuwICXCg) (code: lbc0) in ./model/MSAAFNet_V3.py.
