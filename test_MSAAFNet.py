@@ -7,6 +7,7 @@ import pdb, os, argparse
 import time
 import imageio
 from model.MSAAFNet import MSAAFNet
+# from model.MSAAFNet_V3 import MSAAFNet
 from utils.data import test_dataset
 
 torch.cuda.set_device(0)
