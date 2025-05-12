@@ -7,6 +7,7 @@ import numpy as np
 import pdb, os, argparse
 from datetime import datetime
 from model.MSAAFNet import MSAAFNet
+# from model.MSAAFNet_V3 import MSAAFNet
 from utils.data import get_loader
 from utils.func import AvgMeter, clip_gradient, adjust_lr
 import pytorch_iou
